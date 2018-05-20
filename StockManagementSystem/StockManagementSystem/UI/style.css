@@ -1,0 +1,47 @@
+﻿body {
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.1)),url(images/simms_stock2.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.main-nav {
+    float: right;
+    list-style: none;
+    padding-top: 30px;
+}
+.main-nav li {
+    display: inline;
+}
+.main-nav li a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 15px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+.main-nav li.active a {
+    
+    background: 1px rgb(78, 226, 236);
+    color: #000000;
+    border-radius: 6px;
+    
+}
+.main-nav li a:hover {
+    border: 1px solid rgb(78, 226, 236);
+    border-radius: 6px;
+}
+.logo {
+    padding: 22px 20px;
+    float: left;
+    font-size: 30px;
+    color: #38ACEC;
+    font-family: "Roboto", sans-serif;
+}
+

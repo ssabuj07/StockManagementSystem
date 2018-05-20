@@ -1,0 +1,6 @@
+F:\.Net (BITM)\project\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+F:\.Net (BITM)\project\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+F:\.Net (BITM)\project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+F:\.Net (BITM)\project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+F:\.Net (BITM)\project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+F:\.Net (BITM)\project\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
